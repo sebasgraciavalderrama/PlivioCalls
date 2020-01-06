@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Speak loop="3" language="es-US" voice="MAN">Cliente Coomeva. Alerta, espacio en 7 porciento</Speak>
+</Response>
